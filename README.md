@@ -1,7 +1,5 @@
 # HASTE: Human-AI Skills and Technology Empowerment
 
----
-
 - **Datasets**: [O*NET Skills](https://www.onetcenter.org/dictionary/30.1/excel/skills.html) |  [O*NET Skills, transformed](https://github.com/pradervonsky/haste/raw/refs/heads/main/datasets/skills.xlsx) | [ailaborindex.com/tasks](https://github.com/pradervonsky/haste/raw/refs/heads/main/datasets/ali.xlsx)
 - **Jupyter Notebook**: [haste.ipynb](https://github.com/pradervonsky/haste/blob/main/haste.ipynb)
 
